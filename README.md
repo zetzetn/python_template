@@ -1,1 +1,1 @@
-# python_template
+Flaskを使ったHPの作成
